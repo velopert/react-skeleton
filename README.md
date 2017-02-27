@@ -9,4 +9,9 @@ React 0.14.7, Babel 6 and webpack on Node.js is used to setup the environment.
 - ``npm install`` - Install the dependency
 - ``npm start``  -Run the development server
 
-*Server port is set to **7777***
+*The default server port number is set to* **7777**
+
+## How to use different port number
+If there's another process which already took the port 7777 or you want to use different port number, you can specify different port number.
+- ``npm start -- --port=[your favorite port]``
+    - For example, you can type ``npm start -- --port=9999`` if you want to start the server in port 9999.
