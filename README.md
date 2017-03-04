@@ -1,3 +1,6 @@
+> This project is deprecated. Please check [react-webpack2-skeleton](https://github.com/velopert/react-webpack2-skeleton)
+
+
 # REACT.JS Skeleton
 
 This project is a React workspace that you can simply start working on React.js project right away.
